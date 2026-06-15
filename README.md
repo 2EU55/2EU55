@@ -116,7 +116,7 @@ A significant portion of my work lives in private repositories because of enterp
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=2EU55&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=2EU55&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
 
 </div>
 
